@@ -1,4 +1,4 @@
-# wydatki_app
+# Expenses-Flutter_app
 
 A new Flutter project.
 
